@@ -16,7 +16,7 @@
     <loaded-nodes />
   </component>
   <component name="DBNavigator.Project.DatabaseConsoleManager">
-    <connection id="e50c3a94-d3a0-42aa-ab1f-38461b27ae2d">
+    <connection id="97e03783-8827-4ad6-9ee8-b3efbeed5cd6">
       <console name="Connection" type="STANDARD" schema="" session="Main" />
     </connection>
   </component>
@@ -54,13 +54,13 @@
   </component>
   <component name="DBNavigator.Project.Settings">
     <connections>
-      <connection id="e50c3a94-d3a0-42aa-ab1f-38461b27ae2d" active="true" signed="true">
+      <connection id="97e03783-8827-4ad6-9ee8-b3efbeed5cd6" active="true" signed="true">
         <database>
           <name value="Connection" />
           <description value="" />
           <database-type value="SQLITE" />
           <config-type value="BASIC" />
-          <database-version value="3.45" />
+          <database-version value="9999.0" />
           <driver-source value="BUNDLED" />
           <driver-library value="" />
           <driver value="" />
@@ -71,7 +71,7 @@
           <tns-folder value="" />
           <tns-profile value="" />
           <files>
-            <file path="D:\AndroidStudioProjects\chapter07\BookStore.db" schema="main" />
+            <file path="C:\Users\Mi\AppData\Local\Google\AndroidStudio2023.1\device-explorer\Xiaomi 23090RA98C\_\data\data\com.example.chapter07\databases\BookStore.db" schema="main" />
           </files>
           <type value="NONE" />
           <user value="" />

@@ -8,6 +8,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
+
+        <provider
+            android:name=".DatabaseProvider"
+            android:authorities="com.example.chapter07.provider"
+            android:enabled="true"
+            android:exported="true"></provider>
+
         <activity
             android:name=".DatabaseActivity"
             android:exported="false" />

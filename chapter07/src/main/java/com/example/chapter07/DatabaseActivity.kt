@@ -15,7 +15,7 @@ class DatabaseActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_database)
-        val dbHelper = MyDatabaseHelper(this, "BookStore.db", 5)
+        val dbHelper = MyDatabaseHelper(this, "BookStore.db", 6)
         val createDatabase: Button = findViewById(R.id.createDatabase)
         createDatabase.setOnClickListener {
             dbHelper.writableDatabase
